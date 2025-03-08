@@ -2,8 +2,8 @@
 
 * [Welcome](docs/welcome.md)
 
-## Wiki
+## [Wiki](docs/wiki/wiki.md)
 
-## Staff
+## [Staff](docs/staff/staff.md)
 
-## Credits
+## [Credits](docs/credits/credits.md)
