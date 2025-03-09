@@ -1,7 +1,7 @@
 ---
 icon: book-open
 description: >-
-  Welcome to the official Aetheris Wiki, your ultimate guide to exploring the vast world of Aetheris. Whether you are an adventurer just starting your journey, a seasoned veteran uncovering hidden secrets, or anywhere in between, this wiki will provide you with all the information you need. From combat mechanics to world-building lore, gameplay mechanics, and more, dive deep into the details that make Aetheris a unique and immersive experience.
+  Welcome to the Aetheris Wiki, your ultimate guide to the world of Aetheris. Whether you're a new adventurer or a seasoned veteran, find everything from combat mechanics to world lore and gameplay details.
 layout:
   title:
     visible: true
