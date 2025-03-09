@@ -3,8 +3,6 @@
 ## Welcome
 
 * [Overview](README.md)
-  * [Character Progression](docs/welcome/overview/character-progression.md)
-  * [Main Quests](docs/welcome/overview/main-quests.md)
 * [Getting Started](docs/welcome/getting-started.md)
 
 ## Development & Community
