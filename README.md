@@ -23,11 +23,11 @@ Head over to [Getting Started](docs/welcome/getting-started.md) to get started o
 
 ### Explore Aetheris
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Please keep in mind that some information is withheld for gameplay purposes and may not be found by players--yet. These elements are intended to enhance the experience and mystery of the game.
 {% endhint %}
 
-<table data-view="cards">
+<!-- <table data-view="cards">
     <thead>
         <tr>
             <th></th>
@@ -68,4 +68,4 @@ Please keep in mind that some information is withheld for gameplay purposes and 
             <td><a href="https://low-effort-studios.gitbook.io/aetheris/database/soul-embers">https://low-effort-studios.gitbook.io/aetheris/database/soul-embers</a></td>
         </tr>
     </tbody>
-</table>
+</table> -->
