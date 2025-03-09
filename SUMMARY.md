@@ -1,12 +1,14 @@
 ‌# Table of contents
 
 ## Welcome
+
 * [Overview](README.md)
   * [Character Progression](docs/welcome/overview/character-progression.md)
   * [Main Quests](docs/welcome/overview/main-quests.md)
 * [Getting Started](docs/welcome/getting-started.md)
 
 ## Development & Community
+
 * [Announcements](docs/development-community/announcements.md)
 * [Events](docs/development-community/events.md)
 * [Roadmap](docs/development-community/roadmap.md)
@@ -14,11 +16,13 @@
 * [Resources](docs/development-community/resources.md)
 
 ## Guides & Tips
+
 * [Beginner's Guide](docs/guides-tips/beginner-guide.md)
 * [Advanced Strategies](docs/guides-tips/advanced-strategies.md)
 * [FAQs](docs/guides-tips/faqs.md)
 
 ## Gameplay Mechanics
+
 * [Controls](docs/gameplay-mechanics/controls.md)
 * [Character Progression](docs/gameplay-mechanics/character-progression/character-progression.md)
 * [Mechanics](docs/gameplay-mechanics/mechanics/README.md)
@@ -37,7 +41,8 @@
 * [Quests & Missions](docs/gameplay-mechanics/quests-missions.md)
 
 ## World
-* [Lore](docs/world/lore.md)
+
+* [Lore & History](docs/world/lore.md)
 * [Biomes](docs/world/biomes.md)
 * [Locations](docs/world/locations.md)
 * [Time System](docs/world/time-system.md)
@@ -46,6 +51,7 @@
 * [Factions](docs/world/factions.md)
 
 ## Character
+
 * [Stats & Attributes](docs/character/stats-attributes.md)
 * [Equipment & Loadouts](docs/character/equipment-loadouts.md)
 * [Accessories](docs/character/accessories.md)
@@ -53,6 +59,7 @@
 * [Soul System](docs/character/soul-system.md)
 
 ## Database
+
 * [Rarity](docs/database/rarity.md)
 * [Equipment](docs/database/equipment/README.md)
   * [Sets](docs/database/equipment/sets.md)
