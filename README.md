@@ -1,7 +1,7 @@
 ---
 icon: book-open
 description: >-
-  Welcome to the Aetheris Wiki, your ultimate guide to the world of Aetheris. Whether you're a new adventurer or a seasoned veteran, find everything from combat mechanics to world lore and gameplay details.
+  Welcome to the Aetheris Wiki, your guide to the world of Aetheris. Whether you're a new adventurer or a seasoned veteran, find everything from combat mechanics to world lore and gameplay details.
 layout:
   title:
     visible: true
@@ -27,7 +27,7 @@ Head over to [Getting Started](docs/welcome/getting-started.md) to get started o
 Please keep in mind that some information is withheld for gameplay purposes and may not be found by players--yet. These elements are intended to enhance the experience and mystery of the game.
 {% endhint %}
 
-### Explore Aetheris
+### Explore Aetheris Wiki
 
 <table data-view="cards">
     <thead>
