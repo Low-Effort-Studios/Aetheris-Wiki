@@ -4,13 +4,7 @@ description: >-
   Welcome to the Aetheris Wiki, your guide to the world of Aetheris. Whether
   you're a new adventurer or a seasoned veteran, find everything from combat
   mechanics to world lore and gameplay details.
-cover: >-
-  https://images.unsplash.com/photo-1579546929662-711aa81148cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxncmFkaWVudHxlbnwwfHx8fDE3NDE2NTIzOTJ8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
