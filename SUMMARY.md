@@ -1,4 +1,4 @@
-‌# Table of contents
+# Table of contents
 
 ## Welcome
 
@@ -22,7 +22,7 @@
 ## Gameplay Mechanics
 
 * [Controls](docs/gameplay-mechanics/controls.md)
-* [Character Progression](docs/gameplay-mechanics/character-progression/character-progression.md)
+* [Character Progression](gameplay-mechanics/character-progression.md)
 * [Mechanics](docs/gameplay-mechanics/mechanics/README.md)
   * [Combat](docs/gameplay-mechanics/mechanics/combat/README.md)
     * [Soul Ember](docs/gameplay-mechanics/mechanics/combat/soul-ember.md)
